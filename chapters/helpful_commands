@@ -1,0 +1,10 @@
+# Terminal commands
+install packages => install.packages("package_name")
+load packages => library(package)
+view tabular data => View(dataset)
+view all columns => glimpse(dataset)
+view first rows => head(dataset) OR dataset
+
+# Keyboard shortcuts
+Alt + shift + k to view all keyboard shortcuts
+Ctrl + l to clear view in console
